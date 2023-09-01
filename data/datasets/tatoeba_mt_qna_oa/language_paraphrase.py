@@ -283,4 +283,17 @@ random_templates_paraphrase = {
         9: "Använd en annan formulering för att förmedla samma idé som {opening_quote}{text}{closing_quote}.",
         10: "Kan du snälla omskriva {opening_quote}{text}{closing_quote} så att det har en annan betydelse?",
     },
+    "eo": {
+        1: "Parafrazu {opening_quote}{text}{closing_quote}",
+        2: "Ĉu vi povas reskribi la sekvan tekston: {opening_quote}{text}{closing_quote}?",
+        3: "Ĉu vi povas refrazi ĉi tiun frazon: {opening_quote}{text}{closing_quote}?",
+        4: "Ŝanĝigu la jenan frazon: {opening_quote}{text}{closing_quote}.",
+        5: "Kiel vi esprimus {opening_quote}{text}{closing_quote} alimaniere?",
+        6: "Ĉu vi povas diri {opening_quote}{text}{closing_quote} en aliajn vortojn?",
+        7: "Ŝanĝu ĉi tiun tekston: {opening_quote}{text}{closing_quote} por komuniki la saman mesaĝon alimaniere.",
+        8: "Ĉu vi povas parafrazi {opening_quote}{text}{closing_quote} per uzado de alia vortprovizo?",
+        9: "Provu diri {opening_quote}{text}{closing_quote} per viaj propraj vortoj.",
+        10: "Kiel vi povus diri {opening_quote}{text}{closing_quote} alimaniere?",
+        12: "Uzu malsamajn formuladojn por komuniki la saman ideon kiel {opening_quote}{text}{closing_quote}.",
+    },
 }
